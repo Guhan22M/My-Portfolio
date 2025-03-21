@@ -50,7 +50,7 @@ export const PROJECTS = [
     description:
     "Developed a responsive and interactive personal portfolio using React, Tailwind CSS, and Framer Motion. The website highlights my skills, projects, internships, and achievements with smooth animations and clean UI. It also includes social media links and a resume download option.",
     technologies: ["React","Tailwind", "Framer Motion"],
-    github:"https://github.com/Guhan22M/ReactNative-HomeWorkoutApp-",
+    github:"https://github.com/Guhan22M/My-Portfolio",
   },
   {
     title: "Portfolio Generator",
